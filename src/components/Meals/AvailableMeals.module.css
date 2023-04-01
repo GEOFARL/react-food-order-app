@@ -17,6 +17,12 @@
   font-size: 20px;
 }
 
+.mealsError {
+  text-align: center;
+  color: red;
+  font-size: 20px;
+}
+
 @keyframes meals-appear {
   from {
     opacity: 0;
